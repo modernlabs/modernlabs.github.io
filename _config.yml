@@ -2,7 +2,7 @@ title:             ModernLabs
 email:             modernlabs@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           ""
 url:               "http://modernlabs.github.io"
 
 # Social Profiles
